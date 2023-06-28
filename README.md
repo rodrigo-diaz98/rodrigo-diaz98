@@ -7,18 +7,18 @@
 <h2>ABOUT ME</h2>
 <blockquote>
   - Systems Engineer <br />
-  - Currently studying a Master's degree in Management and Technology <br />
-  - Currently working with Vue/Nuxt + Node.js stack <br />
-  - Always looking to improve my skills and learn new things <br />
+  - Currently studying a Master's degree in Management and Technology. <br />
+  - Currently working with Vue/Nuxt + Node.js stack. <br />
+  - Always looking to improve my skills and learn new things. <br />
 </blockquote>
 <br />
 
 <h2>SKILLS</h2>
 <blockquote>
-  - Languages: Java, JavaScript, Python, SQL, C, HTML, CSS and Haskell.t<br />
-  - Frameworks: Vue.js (2 and 3), Nuxt.js, Hibernate, Spring and Express.js.<br />
-  - Testing tools: JUnit, K6, Selenium, Jest, Cypress and Katalon.<br />
-  - DB: MongoDB, Redis and PostgreSQL.<br />
+  - Languages: Java, JavaScript, Python, SQL, C, HTML, CSS and Haskell. <br />
+  - Frameworks: Vue.js (2 and 3), Nuxt.js, Hibernate, Spring and Express.js. <br />
+  - Testing tools: JUnit, K6, Selenium, Jest, Cypress and Katalon. <br />
+  - DB: MongoDB, Redis and PostgreSQL. <br />
 </blockquote>
 
 <picture>
