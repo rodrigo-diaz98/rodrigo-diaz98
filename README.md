@@ -6,7 +6,7 @@
 
 <h2>ABOUT ME</h2>
 <blockquote>
-  - Systems Engineer <br />
+  - Systems Engineer. <br />
   - Currently studying a Master's degree in Management and Technology. <br />
   - Currently working with Vue/Nuxt + Node.js stack. <br />
   - Always looking to improve my skills and learn new things. <br />
