@@ -1,6 +1,5 @@
 <h3>
   🔸 <a href="https://www.linkedin.com/in/rodrigo-diaz-6a74a9153/">LinkedIn</a></br>
-  🔸 <a href="https://drive.google.com/file/d/1KSwG8dmzlDMwhJfDufKJ2rtNLtGKdcfJ/view?usp=sharing">Resume</a>
 </h3>
 <br />
 
