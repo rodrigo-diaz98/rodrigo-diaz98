@@ -39,6 +39,6 @@
 <blockquote>
   - Spanish (Native)<br />
   - English (Advanced)<br />
-  - Portuguese (Intermediate)<br />
+  - Danish (Intermediate A2/B1)<br />
 </blockquote>
 <br />
