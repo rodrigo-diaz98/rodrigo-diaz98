@@ -21,7 +21,7 @@
 
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api/top-langs?username=rdiazutn&show_icons=true&theme=dark&layout=compact"
+  srcset="https://github-readme-stats.vercel.app/api/top-langs?username=rodrigo-diaz98&show_icons=true&theme=dark&layout=compact"
   media="(prefers-color-scheme: dark)"
 />
 <source
